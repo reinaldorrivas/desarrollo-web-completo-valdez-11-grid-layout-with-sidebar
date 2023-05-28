@@ -61,7 +61,7 @@ p {
     grid-column: 2 / 3;
   }
 
-  .contenedor-grid sidebar {
+  .contenedor-grid .sidebar {
     grid-column: 1/ 2;
   }
 }
