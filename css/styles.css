@@ -62,6 +62,6 @@ p {
   }
 
   .contenedor-grid .sidebar {
-    grid-column: 1/ 2;
+    grid-column: 1 / 2;
   }
 }
